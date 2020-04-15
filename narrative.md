@@ -1,8 +1,6 @@
-# StudentGradeSystem
+# Artifact Narrative
 
 Artifact: Software Design and Engineering
-
-### Artifact Narrative
 
 **Describe the artifact**
 
