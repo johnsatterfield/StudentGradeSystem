@@ -3,7 +3,7 @@
 Artifact: Software Design and Engineering
 
 * [Link to Artifact](https://github.com/johnsatterfield/StudentGradeSystem/tree/master/App)
-* [Back to ePortfolio](https://github.com/johnsatterfield/johnsatterfield.github.io/blob/master/index.md)
+* [Back to ePortfolio](https://johnsatterfield.github.io/)
 
 **Describe the artifact**
 
