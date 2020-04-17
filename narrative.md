@@ -2,6 +2,9 @@
 
 Artifact: Software Design and Engineering
 
+* [Link to Artifact](https://github.com/johnsatterfield/StudentGradeSystem/tree/master/App)
+* [Back to ePortfolio](https://github.com/johnsatterfield/johnsatterfield.github.io/blob/master/index.md)
+
 **Describe the artifact**
 
 The artifact for this assignment comes from CS-410: Software Reverse Engineering. The file is from the final project where we reverse engineered source code into assembly code and interpreted into legacy code. The program was written in C and functions as a school application where a professor can log in, view the list of students and their grades, and make updates to the grades as needed.
