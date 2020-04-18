@@ -1,5 +1,5 @@
 ---
-layout:artifact
+layout: artifact
 filename: index
 ---
 
