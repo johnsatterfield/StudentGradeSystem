@@ -1,3 +1,8 @@
+---
+layout:artifact
+filename: index
+---
+
 # Artifact Narrative
 
 Artifact: Software Design and Engineering
