@@ -20,3 +20,33 @@ This artifact is included in my ePortfolio, satisfying the Software Design and E
 My initial plan included removing redundant and duplicative code, provide better security for validating user credentials, and implementing the ability to add and remove students. I was able to reduce the amount of code by splitting up the program into more organized functions. A switch/case statement was added to validate the user’s input from a defined list of menu options. To provide better security, the user credentials are validated against .
 
 The initial program was created and run in the Codio environment created for the class. One of the initial challenges I faced was implementing a similar environment locally on my computer where I could edit and test the program. Other challenges I faced related to updating the code and trying to implement a database. I ended up using a file reader and happy with the overall enhancements I made to the program. I also found manipulating Stucts more difficult than expected and therefore did not add the add/remove student function.
+
+##Screenshots of Application
+
+**Login**
+
+![loginscreen](images/SGS_login.JPG)
+
+**Add Students**
+
+![add students](images/SGS_initialMenu.JPG)
+
+**List Students**
+
+![list students](images/SGS_optionOne.JPG)
+
+**Update Grades**
+
+![update grades](images/SGS_updateGrades.JPG)
+
+**Find Students with Grade**
+
+![find by grade](images/SGS_searchGrade.JPG)
+
+**Invalid Entry**
+
+![invalid entry](images/SGS_invalidOption.JPG)
+
+**Exit**
+
+![system exit](images/SGS_exit.JPG)
