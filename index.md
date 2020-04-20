@@ -21,7 +21,7 @@ My initial plan included removing redundant and duplicative code, provide better
 
 The initial program was created and run in the Codio environment created for the class. One of the initial challenges I faced was implementing a similar environment locally on my computer where I could edit and test the program. Other challenges I faced related to updating the code and trying to implement a database. I ended up using a file reader and happy with the overall enhancements I made to the program. I also found manipulating Stucts more difficult than expected and therefore did not add the add/remove student function.
 
-##Screenshots of Application
+## Screenshots of Application
 
 **Login**
 
